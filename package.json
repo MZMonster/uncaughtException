@@ -1,0 +1,23 @@
+{
+  "name": "catch-uncaught-exception",
+  "version": "1.0.6",
+  "description": "catch node uncaught exception,send email and exit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MZMonster/uncaughtException.git"
+  },
+  "author": "shanelau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MZMonster/uncaughtException/issues"
+  },
+  "homepage": "https://github.com/MZMonster/uncaughtException#readme",
+  "dependencies": {
+    "nodemailer": "^1.11.0",
+    "pm2": "^1.0.0"
+  }
+}
