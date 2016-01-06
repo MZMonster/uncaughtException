@@ -1,6 +1,6 @@
 {
   "name": "catch-uncaught-exception",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "catch node uncaught exception,send email and exit",
   "main": "src/index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MZMonster/uncaughtException#readme",
   "dependencies": {
+    "catch-uncaught-exception": "^1.0.9",
     "nodemailer": "^1.11.0"
   }
 }
