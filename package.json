@@ -1,6 +1,6 @@
 {
   "name": "catch-uncaught-exception",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "catch node uncaught exception,send email and exit",
   "main": "src/index.js",
   "scripts": {
